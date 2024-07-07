@@ -1,4 +1,4 @@
-# PrismLauncher Cracking Guide
+# Add Offline Accounts to PrismLauncher Guide
 The steps on how to add cracked accounts on PrismLauncher w/o Microsoft login
 
 1) Download the source code by
