@@ -1,3 +1,6 @@
+### UPDATE 
+Prism Launcher 9.0 and later has patched this, hence this guide is effectivly useless now, this **only** works on Prism Launcher versions below 9.0. For 9.0 I recommend just using a cracked fork of Prism like [this one](https://github.com/Diegiwg/PrismLauncher-Cracked/releases), which I heard is safe, but I'd recommend downloading directly through GitHub actione.
+
 # Add Offline Accounts to PrismLauncher Guide
 The steps on how to add cracked accounts on PrismLauncher w/o Microsoft login
 
