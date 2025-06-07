@@ -12,7 +12,7 @@
                     "variant": ""
                 }
             },
-            "type": "Offline",
+            "type": "MSA",
             "ygg": {
                 "extra": {
                     "clientToken": "54e6a07be4414740bc08917e0a9a125c",
