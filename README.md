@@ -23,3 +23,7 @@ The steps on how to add offline accounts on PrismLauncher w/o Microsoft login
 6) Now open PrismLauncher and continue the steps as normal
 
 __MAKE SURE YOU ADD A NEW ACCOUNT BEFORE USING AND DO NOT DELETE THE XYZ ACCOUNT__
+
+# Credits
+
+Credits to [baconhoney](https://github.com/baconhoney) for the workaround on PrismLauncher update 9.0+
