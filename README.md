@@ -1,8 +1,10 @@
-# Add Offline Accounts to PrismLauncher 
+# Description
 
 > Updated to 9.0+
 
-The steps on how to add offline accounts on PrismLauncher w/o Microsoft login.
+This is a guide to how you can bypass the block of adding an offline account in PrismLauncher, without a Microsoft account.
+
+# Instructions
 
 1) Downnload and install PrismLaunncher by clicking [here](https://prismlauncher.org/download/).
 > For Linux it's reccomended you use Flathub or your distro's package manager.
