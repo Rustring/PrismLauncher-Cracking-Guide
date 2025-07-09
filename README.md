@@ -1,10 +1,12 @@
-# Description
+# Add Offline Accounts To PrismLauncher
+
+### Description
 
 > Updated to 9.0+
 
 This is a guide to how you can bypass the block of adding an offline account in PrismLauncher, without a Microsoft account.
 
-# Instructions
+### Instructions
 
 1) Downnload and install PrismLaunncher by clicking [here](https://prismlauncher.org/download/).
 > For Linux it's reccomended you use Flathub or your distro's package manager.
@@ -20,10 +22,12 @@ This is a guide to how you can bypass the block of adding an offline account in 
 4) Copy the file `accounts.json` file you downloaded and paste it there.
 
 5) Now open PrismLauncher and continue the launcher's post setup, and adding an offline account should work.
-> You may also launch before then perform the steps but any way is alright.
+> You may also launch the launcher before then perform the steps but any way is alright.
 
-__MAKE SURE YOU ADD A NEW ACCOUNT BEFORE USING AND DO NOT DELETE THE ACCOUNT NAMED XYZ__
+__MAKE SURE YOU ADD A NEW ACCOUNT BEFORE LAUNCHING THE GAMD AND DO NOT DELETE THE ACCOUNT NAMED XYZ__
 
-# Credits
+Moreover, the account named XYZ shouldn't be used at all, as a usable account, and simply should be kept around with another account being used on its place.
+
+### Credits
 
 Credits to [baconhoney](https://github.com/baconhoney) for the fix to the workaround on PrismLauncher update 9.0+
