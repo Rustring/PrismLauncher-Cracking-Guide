@@ -2,7 +2,7 @@
 
 ### NOTE:
 
-This guide shouldn't be given __any__ publicity whatsoever, I'm okay if it's shared in small groups but I'm not at all okay with having this shared on mass.
+This guide shouldn't be given __any__ sort of mass publicity whatsoever, I'm okay if it's shared in small groups but I'm not at all okay with having this shared on mass.
 
 ### Description
 
