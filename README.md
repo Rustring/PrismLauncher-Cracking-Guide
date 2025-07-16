@@ -1,5 +1,9 @@
 # Add Offline Accounts To PrismLauncher
 
+### NOTE:
+
+This guide shouldn't be given __any__ publicity whatsoever, I'm okay if it's shared in small groups but I'm not at all okay with having this shared on mass.
+
 ### Description
 
 > Updated to 9.0+
